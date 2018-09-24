@@ -16,3 +16,5 @@ with this code: #P857
 * [Check traffic with a schedule-based logic app](https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
 * [Create a serverless API using Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
 * [Create a function that integrates with Azure Logic Apps](https://docs.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
+* [Import and publish your first API](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)
+* [How to build a classifier with Custom Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier)
