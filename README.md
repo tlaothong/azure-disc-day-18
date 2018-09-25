@@ -18,3 +18,6 @@ with this code: #P857
 * [Create a function that integrates with Azure Logic Apps](https://docs.microsoft.com/en-us/azure/azure-functions/functions-twitter-email)
 * [Import and publish your first API](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)
 * [How to build a classifier with Custom Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier)
+* [Connect Raspberry Pi online simulator to Azure IoT Hub (Node.js)](https://azure-samples.github.io/raspberry-pi-web-simulator/#Getstarted)
+* [Visualize real-time sensor data from Azure IoT Hub using Power BI](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
+* [Tutorial: Create a WPF app to detect and frame faces in an image](https://docs.microsoft.com/en-us/azure/cognitive-services/Face/Tutorials/FaceAPIinCSharpTutorial)
